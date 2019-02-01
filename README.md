@@ -9,3 +9,5 @@
 # About: https://auto.magetechnolab.com/about-us
 #
 # Sample Post: https://auto.magetechnolab.com/hello-world-5/
+#
+# I've used an HTML template and customized it as per instructions in the document to design theme: https://html5up.net/forty
